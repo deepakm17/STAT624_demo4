@@ -5,7 +5,7 @@ Samyak Mahavir Shah
 Ian Voor
 Noah Winans
 y="naveen"
-name = "Aarushi Agarwal"
+name = "Aarushi 1"
 Geo Lee
 #Justin Cho
 Mithun Krishnan Ramesh
